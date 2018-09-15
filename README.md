@@ -1,5 +1,5 @@
 # Transfer Learning with Keras in R
-## This is a copy of example codes of Florian Teschner's article at https://www.r-bloggers.com/transfer-learning-with-keras-in-r/.
+### This is a copy of example codes of Florian Teschner's article at https://www.r-bloggers.com/transfer-learning-with-keras-in-r/.
 The dataset is a combination of the Flickr27-dataset, with 270 images of 27 classes and self-scraped images from google image search. In case you want to reproduce the analysis, you can download the set here.
 In addition to the previous post, this time I wanted to use pre-trained image models, to see how they perform on the task of identifing brand logos in images.
 
